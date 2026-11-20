@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rocket mission</title>
+    </head>
+    <body>
+        <h1>Rocket mission</h1>
+        <p>Welcome to the rocket mission!<br>
+            Meet the rocket:
+            <img src="Rocket.jpg" alt="Rocket" height="300"> 
+             <h2> The planet</h2>
+             <img src="Planent.avif" "Planet" height="300">
+             
+        </p>
+    </body>
+</html>
